@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  HackerNewsClient
+
+  Created by Anton Gubarenko on 25.05.2020.
+  Copyright © 2020 Anton Gubarenko. All rights reserved.
+*/
+"Loading..." = "Загрузка...";
+"New" = "Новые";
+"Top" = "Топ";
+"Best" = "Лучшие";
+"News" = "Новости";
+"Sorry, no data" = "Извините, нет данных";
+"by %@" = "автор %@";
+"Author: %@" = "Автор: %@";
+"Score: %@" = "Очки: %@";
+"Type: %@" = "Тип: %@";

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D3DCCAE-1B92-4A1F-8342-9A1D1C57A916"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADBD5967-2784-483F-B110-96CF267D7E86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackerNewsClient/API/NewsLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9370A61-280C-49C3-A016-C628833B718C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HackerNewsClient/API/NewsLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "fetchNews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9370A61-280C-49C3-A016-C628833B718C - a829f57f9ae16e82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HackerNewsClient.NewsLoader.fetchNews() -&gt; ()"
+                  moduleName = "HackerNewsClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antongubarenko/Desktop/HackerNewsClient/HackerNewsClient/API/NewsLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "2447">
+               </Location>
+               <Location
+                  uuid = "B9370A61-280C-49C3-A016-C628833B718C - 5e1d4a85a2cdae49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in HackerNewsClient.NewsLoader.fetchNews() -&gt; ()"
+                  moduleName = "HackerNewsClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antongubarenko/Desktop/HackerNewsClient/HackerNewsClient/API/NewsLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "733">
+               </Location>
+               <Location
+                  uuid = "B9370A61-280C-49C3-A016-C628833B718C - 34efbe8f067003bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (HackerNewsClient.NewsItem) -&gt; () in HackerNewsClient.NewsLoader.fetchNews() -&gt; ()"
+                  moduleName = "HackerNewsClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antongubarenko/Desktop/HackerNewsClient/HackerNewsClient/API/NewsLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
