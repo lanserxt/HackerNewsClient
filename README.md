@@ -5,7 +5,7 @@ Coding practice project. Hacker News reader written in SwiftUI and using Combine
 
 ## Description
 
-Using https://github.com/HackerNews/API load Latest, Top 7 Best news item. On top should be picker with news types and on tap you should show news details.
+Using https://github.com/HackerNews/API load Latest, Top & Best news item. On top should be picker with news types and on list item tap you should show news details.
 
 Language: Swift 5.2
 Frameworks:
@@ -13,7 +13,7 @@ Frameworks:
 - Combine
 
 ### UI
-
+![Alt text](/screens/Main.png "Main View") ![Alt text](/screens/Loading.png "Loading View") ![Alt text](/screens/Details.png "Detail View")
 ### Challenges
 
 1) And the most obvious, it's the SwiftUI ) It's my second challenge project which I decided to complete using latest Apple UI framework. To make it more complicated, Combine framework used to React the whole developemnt )
