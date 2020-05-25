@@ -13,7 +13,7 @@ Frameworks:
 - Combine
 
 ### UI
-![Alt text](/screens/Main.png "Main View") ![Alt text](/screens/Loading.png "Loading View") ![Alt text](/screens/Details.png "Detail View")
+![Alt text](/screens/Main.png "Main View") ![Alt text](/screens/Loader.png "Loading View") ![Alt text](/screens/Detail.png "Detail View")
 ### Challenges
 
 1) And the most obvious, it's the SwiftUI ) It's my second challenge project which I decided to complete using latest Apple UI framework. To make it more complicated, Combine framework used to React the whole developemnt )
